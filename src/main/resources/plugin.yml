@@ -1,0 +1,4 @@
+name: TrackingTest
+version: @version@
+main: com.github.yannicklamprecht.entitytracking.trackingtest.TrackingTest
+api-version: 1.16
